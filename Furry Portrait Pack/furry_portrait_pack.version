@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://github.com/theDragn/HTE/raw/main/hte.version",
-    "modName":"High Tech Expansion",
-    "modThreadId":19548,
+    "masterVersionFile":"https://raw.githubusercontent.com/theDragn/FurryPortraitPack/main/Furry%20Portrait%20Pack/furry_portrait_pack.version",
+    "modName":"Furry Portrait Pack",
+    "modThreadId":0,
     "modVersion":
     {
         "major":1,
-        "minor":4,
+        "minor":0,
         "patch":"0"
     },
 }
