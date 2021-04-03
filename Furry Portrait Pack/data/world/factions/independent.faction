@@ -1,0 +1,21 @@
+{
+	"portraits":{
+		"standard_female":[
+			"graphics/portraits/ai_f1.png",
+			"graphics/portraits/ai_f2.png",
+			"graphics/portraits/ai_f3.png",
+			"graphics/portraits/ai_f4.png",
+			"graphics/portraits/ai_f5.png",
+			"graphics/portraits/real_f1.png",
+			"graphics/portraits/real_f2.png",
+		],
+		"standard_male":[
+			"graphics/portraits/ai_m1.png",
+			"graphics/portraits/ai_m2.png",
+			"graphics/portraits/ai_m3.png",
+			"graphics/portraits/ai_m4.png",
+			"graphics/portraits/real_m1.png",
+			"graphics/portraits/real_m2.png",
+		],
+	},
+},

@@ -1,0 +1,7 @@
+{
+	"id":"furryPortraits", # internal id
+	"name":"Furry Portrait Pack", # displayed to the player
+	"version":"v1.0",
+	"description":"Adds some furry portraits to vanilla factions.",
+	"gameVersion":"0.95a-RC12",
+}
