@@ -1,43 +1,19 @@
 {
 	"portraits":{
 		"standard_female":[
-			"graphics/portraits/fpp_ai_f1.png",
-			"graphics/portraits/fpp_ai_f2.png",
 			"graphics/portraits/fpp_ai_f3.png",
 			"graphics/portraits/fpp_ai_f4.png",
 			"graphics/portraits/fpp_ai_f5.png",
-			"graphics/portraits/fpp_real_f1.png",
-			"graphics/portraits/fpp_real_f2.png",
 			"graphics/portraits/fpp_real_f3.png",
-			"graphics/portraits/fpp_real_f4.png",
-			"graphics/portraits/fpp_real_f5.png",
-			"graphics/portraits/fpp_real_f6.png",
-			"graphics/portraits/fpp_real_f7.png",
-			"graphics/portraits/fpp_real_f8.png",
-			"graphics/portraits/fpp_real_f9.png",
 			"graphics/portraits/fpp_real_f10.png",
-			"graphics/portraits/fpp_real_f11.png",
-			"graphics/portraits/fpp_real_f12.png",
 			"graphics/portraits/fpp_real_f13.png",
-			"graphics/portraits/fpp_real_f14.png",
-			"graphics/portraits/fpp_real_f15.png",
-			"graphics/portraits/fpp_real_f16.png",
-			"graphics/portraits/fpp_real_f17.png"
 		],
 		"standard_male":[
-			"graphics/portraits/fpp_ai_m1.png",
-			"graphics/portraits/fpp_ai_m2.png",
 			"graphics/portraits/fpp_ai_m3.png",
 			"graphics/portraits/fpp_ai_m4.png",
-			"graphics/portraits/fpp_real_m1.png",
-			"graphics/portraits/fpp_real_m2.png",
-			"graphics/portraits/fpp_real_m3.png",
 			"graphics/portraits/fpp_real_m4.png",
-			"graphics/portraits/fpp_real_m5.png",
-			"graphics/portraits/fpp_real_m6.png",
 			"graphics/portraits/fpp_real_m7.png",
 			"graphics/portraits/fpp_real_m8.png",
-			"graphics/portraits/fpp_real_m9.png"
 		]
 	}
 }

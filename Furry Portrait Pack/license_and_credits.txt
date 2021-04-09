@@ -12,9 +12,10 @@ I have permission from the original art owners to make this specific portrait pa
 All art in this mod is owned by individual members of the Starsector community.  
 (Except for the stuff that was AI-generated, which is free-use.)
 
-Credit for specific portraits is anonymous unless otherwise requested.
+Credit for specific portraits is anonymous unless otherwise requested, or if the art wasn't provided privately.
 - AI Generated using thisfursonadoesnotexist.com: fpp_ai_*.png
-- Admiral Kresta: fpp_real_m7.png
+- Admiral Kresta: fpp_real_m7
+- Lennoxicon: fpp_real_TT_m1, fpp_real_LC_m1 (and two others that you can probably tell by art style)
 
 Do you have art you want in here? Message @theDragn on the unoffical discord, or @theDragn on telegram.
 You *must* have full permission to distribute and modify the art for me to put it in here. 
