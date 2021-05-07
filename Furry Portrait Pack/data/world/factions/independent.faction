@@ -2,6 +2,7 @@
 	"portraits":{
 		"standard_female":[
 			"graphics/portraits/fpp_ai_f4.png",
+			"graphics/portraits/fpp_ai_f6.png",
 			"graphics/portraits/fpp_real_f5.png",
 			"graphics/portraits/fpp_real_f9.png",
 			"graphics/portraits/fpp_real_f14.png",

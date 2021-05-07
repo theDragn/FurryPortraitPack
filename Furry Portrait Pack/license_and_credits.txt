@@ -15,9 +15,10 @@ All art in this mod is owned by individual members of the Starsector community.
 Credit for specific portraits is anonymous unless otherwise requested, or if the art wasn't provided privately.
 - AI Generated using thisfursonadoesnotexist.com: fpp_ai_*.png
 - Admiral Kresta: fpp_real_m7
-- Lennoxicon: fpp_real_TT_m1, fpp_real_LC_m1, fpp_real_PIR_m1 (and two others that you can probably tell by art style)
+- Lennoxicon: fpp_real_TT_m1, fpp_real_LC_m1, fpp_real_PIR_m1, fpp_real_f2,  fpp_real_HEG_f1, fpp_real_m10
 - Vexen (art by Ametat42): fpp_real_HEG_m1, fpp_real_HEG_m2
 - Coherent Watermelon: AI core portraits
+- Gwyvern: fpp_real_m20
 
 Do you have art you want in here? Message @theDragn on the unoffical discord, or @theDragn on telegram.
 You *must* have full permission to distribute and modify the art for me to put it in here. 
