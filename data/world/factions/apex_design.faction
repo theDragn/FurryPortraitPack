@@ -1,0 +1,14 @@
+{
+	"portraits":{
+		"standard_female":[
+			"graphics/portraits/fpp_real_f37.png",
+			"graphics/portraits/fpp_real_f38.png",
+			"graphics/portraits/fpp_real_f44.png"
+		],
+		"standard_male":[
+			"graphics/portraits/fpp_real_m24.png",
+			"graphics/portraits/fpp_real_m28.png",
+			"graphics/portraits/fpp_real_m26.png",
+		]
+	}
+}
