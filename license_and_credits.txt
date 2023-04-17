@@ -10,16 +10,15 @@ This mod is licensed under a Creative Commons Attribution-NonCommercial-NoDeriva
 I have permission from the original art owners to make this specific portrait pack. I don't have permission for anything else.
 
 All art in this mod is owned by individual members of the Starsector community.  
-(Except for the stuff that was AI-generated, which is free-use.)
 
 Credit for specific portraits is anonymous unless otherwise requested, or if the art wasn't provided privately.
-- AI Generated using thisfursonadoesnotexist.com: fpp_ai_*.png
 - Admiral Kresta: fpp_real_m7
 - Lennoxicon: fpp_real_TT_m1, fpp_real_LC_m1, fpp_real_PIR_m1, fpp_real_f2,  fpp_real_HEG_f1, fpp_real_m10, lion_of_sindria
 - Vexen (art by Ametat42): fpp_real_HEG_m1, fpp_real_HEG_m2
 - Coherent Watermelon: AI core portraits
 - Gwyvern: fpp_real_m20
 - Gamer Two (https://www.furaffinity.net/user/gamer2): fpp_real_m31
+- Rokei (https://www.furaffinity.net/user/arrowtibbs): fpp_real_f46
 
 Do you have art you want in here? Message @theDragn on the unoffical discord, or @theDragn on telegram.
 You *must* have full permission to distribute and modify the art for me to put it in here. 
