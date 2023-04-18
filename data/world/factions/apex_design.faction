@@ -3,7 +3,8 @@
 		"standard_female":[
 			"graphics/portraits/fpp_real_f37.png",
 			"graphics/portraits/fpp_real_f38.png",
-			"graphics/portraits/fpp_real_f44.png"
+			"graphics/portraits/fpp_real_f44.png",
+			"graphics/portraits/fpp_real_f47.png"
 		],
 		"standard_male":[
 			"graphics/portraits/fpp_real_m24.png",
