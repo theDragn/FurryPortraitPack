@@ -49,6 +49,9 @@
 			"graphics/portraits/fpp_real_f45.png",
 			"graphics/portraits/fpp_real_f46.png",
 			"graphics/portraits/fpp_real_f47.png",
+			"graphics/portraits/fpp_real_f48.png",
+			"graphics/portraits/fpp_real_f49.png",
+			"graphics/portraits/fpp_real_f50.png",
 			"graphics/portraits/fpp_real_HEG_f1.png"
 		],
 		"standard_male":[
@@ -102,6 +105,7 @@
 			"graphics/portraits/fpp_real_m48.png",
 			"graphics/portraits/fpp_real_m49.png",
 			"graphics/portraits/fpp_real_m50.png",
+			"graphics/portraits/fpp_real_m51.png",
 			"graphics/portraits/fpp_real_LC_m1.png",
 			"graphics/portraits/fpp_real_TT_m1.png",
 			"graphics/portraits/fpp_real_TT_m2.png",

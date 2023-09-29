@@ -8,6 +8,7 @@
 			"graphics/portraits/fpp_real_f19.png",
 			"graphics/portraits/fpp_real_f34.png",
 			"graphics/portraits/fpp_real_f46.png",
+			"graphics/portraits/fpp_real_f48.png"
 		],
 		"standard_male":[
 			"graphics/portraits/fpp_real_m1.png",
@@ -20,6 +21,7 @@
 			"graphics/portraits/fpp_real_m40.png",
 			"graphics/portraits/fpp_real_m43.png",
 			"graphics/portraits/fpp_real_m49.png",
+			"graphics/portraits/fpp_real_m51.png",
 		]
 	}
 }
