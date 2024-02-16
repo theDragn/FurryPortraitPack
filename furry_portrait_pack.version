@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/theDragn/FurryPortraitPack/main/Furry%20Portrait%20Pack/furry_portrait_pack.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/theDragn/FurryPortraitPack/master/furry_portrait_pack.version",
     "modName":"Furry Portrait Pack",
     "modThreadId":20463,
     "modVersion":
     {
         "major":1,
         "minor":17,
-        "patch":"0"
+        "patch":"1"
     },
 }
