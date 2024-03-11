@@ -20,7 +20,4 @@ Credit for specific portraits is anonymous unless otherwise requested, or if the
 - Gamer Two (https://www.furaffinity.net/user/gamer2): fpp_real_m31
 - Rokei (https://www.furaffinity.net/user/arrowtibbs): fpp_real_f46
 
-Do you have art you want in here? Message @theDragn on the unoffical discord, or @theDragn on telegram.
-You *must* have full permission to distribute and modify the art for me to put it in here. 
-This generally means you need to have made it yourself, purchased it, or commissioned it.
-It also, obviously, must be SFW, or at least cropped to be unarguably SFW.
+Submissions are currently closed. If you want to add your own portrait in here, you can either replace one of the existing portraits, or put the image in the /graphics/portraits folder and add an entry for it in /data/world/player.faction (open with any text editor). For the best appearances, use a 128x128 png.
